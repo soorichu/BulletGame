@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cartoon Cat/Cartoon Cat.unity
+    guid: 8e64fa02faa950a4ea21df03f406f41f
   m_configObjects: {}
